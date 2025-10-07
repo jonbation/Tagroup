@@ -107,9 +107,7 @@ There are several attributes you can set:
 | atg_horizontalPadding	    | 12dp             | The horizontal tag padding.(Mark3)                      |
 | atg_verticalPadding  	    | 3dp              | The vertical tag padding.(Mark4)                        |
 
-# Developed By
 
-Jun Gu - <2dxgujun@gmail.com>
 
 <a href="http://weibo.com/2dxgujun">
   <img alt="Follow me on Weibo" src="http://ww4.sinaimg.cn/large/bce2dea9gw1epjhk9h9m6j20230233yb.jpg"/>
