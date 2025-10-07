@@ -1,4 +1,4 @@
-# `AndroidTagGroup`
+# `TaGroup`
 
 [![Release 1.4](https://img.shields.io/badge/Release-1.4.1-green.svg)](https://github.com/2dxgujun/AndroidTagGroup/releases)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/me.gujun.android.taggroup/library/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/me.gujun.android.taggroup/library)
