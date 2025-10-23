@@ -6,15 +6,6 @@ The TagGroup is a special layout with a set of tags. You can use it to tag peopl
 
 Also you can contribute new idea to me.
 
-# Demo
-
-### Screenshot
-![screenshot1](http://ww4.sinaimg.cn/large/bce2dea9jw1esbsby9v5fj20u00w8jxx.jpg)
-
-### Edit Tags
-![screenshot2](http://ww4.sinaimg.cn/large/bce2dea9jw1esbsbngv8fj20u005w75v.jpg)
-![screenshot3](http://ww4.sinaimg.cn/large/bce2dea9jw1esbsbmoagij20u005sabl.jpg)
-
 [Download Demo](https://github.com/2dxgujun/AndroidTagGroup/releases/download/v1.4/AndroidTagGroup-Demo-v1.4.apk)
 
 # Usage
